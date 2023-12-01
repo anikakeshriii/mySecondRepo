@@ -1,1 +1,2 @@
 # mySecondRepo
+ReadMe example
